@@ -1,6 +1,6 @@
 <head>
 <style>
-h1 {
+     h2{
       text-align: center;
       font-style: italic;
       color: red;
@@ -8,12 +8,12 @@ h1 {
 
     p {
     font-style: italic;
-    color: lightblue;
+    color: gray;
    }
 
    h5 {
       font-style: italic;
-      color: pink;
+      color: gray;
      }
 
     body{
@@ -23,7 +23,7 @@ h1 {
 </style>
 </head>
 <body>
-<h1 >This is my first website</h1>
+<h2>This is my first website</h2>
 <br>
 <p>
     I am to say a few things about me
